@@ -16,8 +16,9 @@ Models used:
 This conclusion was primarily reached by considering the accuracy score as well as the confusion matrix. XGBoost achieved a favorable accuracy score of 98.024%, which was the highest among all the models used. In the confusion matrix, it had the lowest number of false positives and false negatives, resulting in a higher number of correct predictions for all three classes.
 
 ## Exploratory Graphs
+![Untitled-2](https://github.com/0Kyumy0/Stellar_Classification_Project/assets/43456314/00137705-8a32-44ea-835f-c81b7ec8d468)
 
-
+![Untitled-3](https://github.com/0Kyumy0/Stellar_Classification_Project/assets/43456314/4ac56054-314c-4537-8229-0a571defd8b7)
 
 ## Best 3 models
 
